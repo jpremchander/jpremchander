@@ -1,76 +1,124 @@
-💫 About Me:
-👨‍💻 About Me
+<h1 align="center">Hi 👋 I'm Prem Chander Jebsatian</h1>
+<h3 align="center">Cloud Architect | DevSecOps Engineer | MLOPS | FinOps </h3>
 
-🔭 I’m currently working on
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=22&center=true&vCenter=true&width=600&lines=Secure-by-Design+Cloud+Architectures;DevSecOps+%7C+Threat+Intelligence;Detection+Engineering+%7C+IaC+Governance;Reducing+Attack+Surface+Through+Design" />
+</p>
 
-Designing and implementing secure-by-design cloud architectures on AWS, with strong emphasis on identity boundaries, encryption strategy, and workload isolation
+---
 
-Building end-to-end DevSecOps pipelines (Jenkins → Docker → Kubernetes → AWS) with embedded security controls (SAST, dependency scanning, IaC validation)
+# 👨‍💻 About Me
 
-Developing Project RADIANT — an automated Threat Intelligence & Detection engineering lab integrating MISP with Suricata
+## 🔭 Currently Working On
 
-Creating modular, production-ready Terraform reference architectures supporting environment separation (dev/prod), secrets management, and least-privilege IAM
+- Designing and implementing **secure-by-design AWS architectures** with strong identity boundaries, encryption strategy, and workload isolation  
+- Building **end-to-end DevSecOps pipelines** (Jenkins → Docker → Kubernetes → AWS) with embedded security controls (SAST, dependency scanning, IaC validation)  
+- Developing **Project RADIANT** — an automated Threat Intelligence & Detection Engineering lab integrating MISP with Suricata  
+- Creating modular, production-ready **Terraform reference architectures** supporting environment separation (dev/prod), secrets management, and least-privilege IAM  
 
-🤝 I’m looking to collaborate on
+---
 
-Cloud security architecture design reviews
+## 🤝 Open to Collaborate On
 
-Enterprise DevSecOps transformations
+- Cloud security architecture design reviews  
+- Enterprise DevSecOps transformations  
+- Detection engineering aligned with MITRE ATT&CK  
+- Security automation initiatives within Canadian organizations  
 
-Detection engineering aligned with MITRE ATT&CK
+---
 
-Security automation initiatives within Canadian organizations
+## 🛠 Looking for Help With
 
-🛠 I’m looking for help with
+- Large-scale Kubernetes security patterns (OPA, runtime protection, policy-as-code)  
+- Enterprise cloud governance models (landing zones, guardrails, control frameworks)  
+- Advanced threat detection engineering & telemetry optimization  
 
-Large-scale Kubernetes security patterns (OPA, runtime protection, policy-as-code)
+---
 
-Enterprise-level cloud governance models (landing zones, guardrails, control frameworks)
+## 📚 Currently Learning
 
-Advanced threat detection engineering and telemetry optimization
+- Cloud-native security patterns used in Canadian financial & SaaS environments  
+- SOAR architecture & security orchestration at scale  
+- AI-assisted security operations & threat analysis  
+- Advanced container & workload protection strategies  
 
-📚 I’m currently learning
+---
 
-Cloud-native security architecture patterns used in Canadian financial & SaaS environments
+## 💬 Ask Me About
 
-Security orchestration and automation (SOAR) design at scale
+- AWS Security Architecture & IAM boundary design  
+- CI/CD security integration strategies  
+- Infrastructure as Code governance  
+- Threat intelligence automation  
+- Designing practical enterprise-grade security labs  
 
-AI-assisted security operations and threat analysis
+---
 
-Advanced container and workload protection strategies
+## ⚡ Philosophy
 
-💬 Ask me about
+> Strong cloud security architecture isn’t about adding more tools —  
+> it’s about reducing attack surface through intelligent design decisions made before deployment.
 
-AWS Security Architecture & IAM design
+---
 
-CI/CD security integration strategies
+# 🌐 Connect With Me
 
-Infrastructure as Code governance
+<p align="left">
+<a href="https://www.linkedin.com/in/premchanderjebastian/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Threat intelligence automation
+<a href="mailto:yeahitsprem@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-Designing practical security labs that simulate real-world enterprise environments
+---
 
-⚡ Fun fact (about technology)
-Strong cloud security architecture isn’t about adding more tools — it’s about reducing attack surface through intelligent design decisions made before deployment.
+# 💻 Tech Stack
 
-🌐 Socials:
-LinkedIn email
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible" />
 
-💻 Tech Stack:
-Python Bash Script AWS Azure Google Cloud Datadog Apache Jenkins Nginx Apache Tomcat AmazonDynamoDB Redis MySQL MongoDB MariaDB GitLab GitHub Bitbucket GitLab CI GitHub Actions Git TeamCity CloudBees Ansible Kubernetes Jira Grafana Confluence OpenTelemetry Prometheus Postman SonarQube Splunk Swagger Terraform
+### 🔐 DevSecOps & CI/CD
+<img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,bitbucket,git" />
 
-📊 GitHub Stats:
+### 📊 Observability & Security Tooling
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,postman" />
 
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 
+### 💻 Languages & Scripting
+<img src="https://skillicons.dev/icons?i=python,bash" />
 
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="165"/>
+</p>
 
-🏆 GitHub Trophies
+---
 
+# 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
+---
 
-💰 You can help me by Donating
-BuyMeACoffee
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  🚀 Building secure systems by design, not by patchwork.
+</p>
