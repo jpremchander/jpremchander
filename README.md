@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Architect | DevSecOps Engineer | MLOPS | FinOps </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=22&center=true&vCenter=true&width=600&lines=Secure-by-Design+Cloud+Architectures;DevSecOps+%7C+Threat+Intelligence;Detection+Engineering+%7C+IaC+Governance;Reducing+Attack+Surface+Through+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=22&center=true&vCenter=true&width=700&lines=DevOps+Engineer;DevSecOps+Engineer;Cloud+Engineer;Cloud+Architect;Cloud+Security+Specialist" />
 </p>
 
 ---
@@ -97,8 +97,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jpremchander&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=jpremchander&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpremchander&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -114,7 +114,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jpremchander&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
