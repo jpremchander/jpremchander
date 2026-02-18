@@ -2,7 +2,7 @@
 <h3 align="center">Cloud Architect | DevSecOps Engineer | MLOPS | FinOps </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=22&center=true&vCenter=true&width=700&lines=DevOps+Engineer;DevSecOps+Engineer;Cloud+Engineer;Cloud+Architect;Cloud+Security+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C2FF&size=22&center=true&vCenter=true&width=700&lines=DevOps+Engineer;DevSecOps+Engineer;Cloud+Engineer;Cloud+Architect;Cloud+Security+Specialist;FinOps;CloudOps" />
 </p>
 
 ---
